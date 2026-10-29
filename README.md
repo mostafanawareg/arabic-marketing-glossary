@@ -81,7 +81,7 @@ const { terms } = await (await fetch("data/glossary.json")).json();
 
 ### Source
 
-The data is extracted from the book **«معجم المصطلحات التسويقية» (Marketing Glossary)** by Dr. Mostafa Nawareg. The full book is available as an ebook.
+The data is extracted from the book **«معجم المصطلحات التسويقية» (Marketing Glossary)** by Dr. Mostafa Nawareg. The full book is available as an ebook: **[mostafanawareg.com/books](https://mostafanawareg.com/books/)**.
 
 ### License & attribution
 
@@ -125,6 +125,7 @@ Spotted a typo, a better Arabic equivalent, or an outdated example? Open an issu
 **روابط:**
 
 - [الموقع الرسمي](https://mostafanawareg.com/)
+- [الكتاب كاملًا: معجم المصطلحات التسويقية](https://mostafanawareg.com/books/)
 - [أدوات Marketing Planner AI المجانية](https://marketingplannerai.mostafanawareg.com/)
 - [Wikidata](https://www.wikidata.org/wiki/Q140563767)
 - [ORCID](https://orcid.org/0009-0007-8742-9270)

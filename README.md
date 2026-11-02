@@ -15,6 +15,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Terms](https://img.shields.io/badge/terms-375-F18F01)
 ![Languages](https://img.shields.io/badge/lang-Arabic%20%7C%20English-1a1a2e)
+[![Kaggle](https://img.shields.io/badge/Kaggle-dataset-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/drmostafanawareg/arabic-marketing-glossary-english-arabic)
 
 ---
 
@@ -129,6 +130,7 @@ Spotted a typo, a better Arabic equivalent, or an outdated example? Open an issu
 - [الموقع الرسمي](https://mostafanawareg.com/)
 - [الكتاب كاملًا: معجم المصطلحات التسويقية](https://mostafanawareg.com/books/)
 - [أدوات Marketing Planner AI المجانية](https://marketingplannerai.mostafanawareg.com/)
+- [المعجم على Kaggle](https://www.kaggle.com/datasets/drmostafanawareg/arabic-marketing-glossary-english-arabic)
 - [Wikidata](https://www.wikidata.org/wiki/Q140563767)
 - [ORCID](https://orcid.org/0009-0007-8742-9270)
 

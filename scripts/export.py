@@ -4,7 +4,7 @@ import json, csv, pathlib, subprocess, sys
 root = pathlib.Path(__file__).resolve().parent.parent
 terms = json.loads((root/'data/glossary.json').read_text(encoding='utf-8'))['terms']
 with open(root/'data/glossary.csv', 'w', newline='', encoding='utf-8-sig') as f:
-    w = csv.DictWriter(f, fieldnames=list(terms[0].keys())); w.writeheader(); w.writerows(terms)
+    w = csv.DictWriter(f, fieldnames=list(dict.fromkeys(k for t in terms for k in t))); w.writeheader(); w.writerows(terms)
 with open(root/'data/glossary.jsonl', 'w', encoding='utf-8') as f:
     for t in terms: f.write(json.dumps(t, ensure_ascii=False) + '\n')
 print(f'{len(terms)} terms exported')
